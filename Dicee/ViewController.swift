@@ -23,8 +23,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         updateDiceImages()
-        
-        print("hi")
+
     }
 
     override func didReceiveMemoryWarning() {
